@@ -1,0 +1,27 @@
+# Fraud Detection using Machine Learning
+
+## DecodeLabs Industrial Training — Project 2
+
+### Supervised Learning: Fraud Detection Pipeline
+
+**Objective:**  
+Build and tune machine learning classification models to identify fraudulent transactions in a highly imbalanced dataset.
+
+### Models Used
+- Logistic Regression
+- Random Forest Classifier
+
+### Techniques Used
+- Data Preprocessing
+- Train-Test Split
+- SMOTE (Synthetic Minority Over-sampling Technique)
+- Scikit-Learn Pipelines
+- Hyperparameter Tuning using GridSearchCV
+
+### Evaluation Metrics
+- Precision
+- Recall
+- ROC-AUC
+- Confusion Matrix
+
+> **Note:** Accuracy is not used as the primary evaluation metric because fraud detection datasets are highly imbalanced.
